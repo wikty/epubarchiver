@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="xxxxxxxx-xxxxxxxx" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>孟子</text>
+  </docTitle>
+  <navMap>
+    
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>卷一 梁惠王章句上</text>
+      </navLabel>
+      <content src="xhtml/simplified_article_0001.xhtml" />
+    </navPoint>
+
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>卷二　梁惠王章句下</text>
+      </navLabel>
+      <content src="xhtml/simplified_article_0002.xhtml" />
+    </navPoint>
+
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>卷三　公孙丑章句上</text>
+      </navLabel>
+      <content src="xhtml/simplified_article_0003.xhtml" />
+    </navPoint>
+
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>卷四　公孙丑章句下</text>
+      </navLabel>
+      <content src="xhtml/simplified_article_0004.xhtml" />
+    </navPoint>
+
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>卷五　滕文公章句上</text>
+      </navLabel>
+      <content src="xhtml/simplified_article_0005.xhtml" />
+    </navPoint>
+
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>卷六　滕文公章句下</text>
+      </navLabel>
+      <content src="xhtml/simplified_article_0006.xhtml" />
+    </navPoint>
+
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>卷七　离娄章句上</text>
+      </navLabel>
+      <content src="xhtml/simplified_article_0007.xhtml" />
+    </navPoint>
+
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>卷八　离娄章句下</text>
+      </navLabel>
+      <content src="xhtml/simplified_article_0008.xhtml" />
+    </navPoint>
+
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>卷九　万章章句上</text>
+      </navLabel>
+      <content src="xhtml/simplified_article_0009.xhtml" />
+    </navPoint>
+
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>卷十　万章章句下</text>
+      </navLabel>
+      <content src="xhtml/simplified_article_0010.xhtml" />
+    </navPoint>
+
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>卷十一　告子章句上</text>
+      </navLabel>
+      <content src="xhtml/simplified_article_0011.xhtml" />
+    </navPoint>
+
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>卷十二　告子章句下</text>
+      </navLabel>
+      <content src="xhtml/simplified_article_0012.xhtml" />
+    </navPoint>
+
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>卷十三　心章句上</text>
+      </navLabel>
+      <content src="xhtml/simplified_article_0013.xhtml" />
+    </navPoint>
+
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>卷十四　心章句下</text>
+      </navLabel>
+      <content src="xhtml/simplified_article_0014.xhtml" />
+    </navPoint>
+  </navMap>
+</ncx>
