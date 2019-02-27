@@ -4,6 +4,10 @@
 
 该项目主要包含若干用来归档以及校验 epub 文件的脚本
 
+### 软件依赖
+
+需要安装 [Java SE](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
+
 ### 用法
 
 * 归档并验证多个文件夹
